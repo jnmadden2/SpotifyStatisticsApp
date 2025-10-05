@@ -35,3 +35,24 @@ output.json
 obj/
 .externalNativeBuild
 
+# ===== CRITICAL SECURITY ADDITIONS =====
+# API Keys and Secrets (ADD THESE!)
+*.env
+.env
+.env.local
+.env.production
+secrets.properties
+apikeys.properties
+google-services.json
+keystore.properties
+
+# Keystore files
+*.jks
+*.keystore
+
+# Log files (IMPORTANT!)
+*.log
+logs/
+
+# Gradle signing configs
+signing.properties
