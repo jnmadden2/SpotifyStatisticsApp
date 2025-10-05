@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bff2c20-d738-415f-908a-06fd5949e01b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/shelf/Uncommitted_changes_before_Checkout_at_12_1_2023_1_27_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../quick.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../quick.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/FollowedArtists/FollowedArtists.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/FollowedArtists/FollowedArtists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/FollowedArtists/FollowedArtistsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/FollowedArtists/FollowedArtistsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/FollowedArtists/FollowedArtistsRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/FollowedArtists/FollowedArtistsRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/MinutesListened/MinutesListened.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/MinutesListened/MinutesListened.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/MinutesListened/MinutesListenedController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/MinutesListened/MinutesListenedController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/MinutesListened/MinutesListenedRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/MinutesListened/MinutesListenedRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/RecentlyPlayed/RecentlyPlayed.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/RecentlyPlayed/RecentlyPlayed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/RecentlyPlayed/RecentlyPlayedController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/RecentlyPlayed/RecentlyPlayedController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/RecentlyPlayed/RecentlyPlayedRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/RecentlyPlayed/RecentlyPlayedRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/SearchedAlbums/SearchedAlbums.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/SearchedAlbums/SearchedAlbums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/SearchedAlbums/SearchedAlbumsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/SearchedAlbums/SearchedAlbumsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/SearchedAlbums/SearchedAlbumsRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/SearchedAlbums/SearchedAlbumsRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/SearchedArtists/SearchedArtists.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/SearchedArtists/SearchedArtists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/SearchedArtists/SearchedArtistsRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/SearchedArtists/SearchedArtistsRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/SearchedSongs/SearchedSongs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/SearchedSongs/SearchedSongs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/SearchedSongs/SearchedSongsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/SearchedSongs/SearchedSongsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/SearchedSongs/SearchedSongsRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/SearchedSongs/SearchedSongsRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/TopArtists/TopArtistRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/TopArtists/TopArtistRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/TopArtists/TopArtists.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/TopArtists/TopArtists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/TopArtists/TopArtistsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/TopArtists/TopArtistsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/TopSongs/TopSongs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/TopSongs/TopSongs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/TopSongs/TopSongsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/TopSongs/TopSongsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/TopSongs/TopSongsRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/TopSongs/TopSongsRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/Users/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/Users/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/Users/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/Users/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/Websocket/DirectMessageServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/Websocket/DirectMessageServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/websocket/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/websocket/ChatServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/db/websocket/WebSocketConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/db/websocket/WebSocketConfig.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2ZDdmMcdTJrDbPEX9piSbtnABki" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/tyberesford/Desktop/PROJECTS/COMS309/quicksc/Backend/app/quicksc/src/test/java/db",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bff2c20-d738-415f-908a-06fd5949e01b" name="Changes" comment="" />
+      <created>1701960741830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701960741830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

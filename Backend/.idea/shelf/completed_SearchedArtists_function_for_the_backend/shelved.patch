@@ -1,0 +1,207 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"NONE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"661f7d07-f006-4178-9427-3efa51b6a3a1\" name=\"Changes\" comment=\"basically done with muisc queue needs to be tested tho\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CodeInsightWorkspaceSettings\">\r\n    <option name=\"optimizeImportsOnTheFly\" value=\"true\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$/..\" value=\"Tiffanie-Demo4\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2WPYyRRa9bycneapY6kdkXb2i4L\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.cidr.known.project.marker\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"cidr.known.project.marker\": \"true\",\r\n    \"git-widget-placeholder\": \"68-search-artist-backend-and-frontend\",\r\n    \"last_opened_file_path\": \"/Users/tyberesford/Desktop/PROJECTS/COMS309/quicksc-v3/quick/Backend\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"reference.settings.project.maven.repository.indices\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\tiffa\\sd_324\\Backend\\app\\quicksc\\src\\main\\java\\db\\\" />\r\n      <recent name=\"C:\\Users\\tiffa\\sd_324\\Backend\\app\\quicksc\\src\\main\\java\\db\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <module name=\"quick\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <module name=\"quick\" />\r\n      <option name=\"filePath\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Main\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\r\n      <module name=\"quick\" />\r\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"db.Main\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"661f7d07-f006-4178-9427-3efa51b6a3a1\" name=\"Changes\" comment=\"checkout error\" />\r\n      <created>1696635936027</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1696635936027</updated>\r\n      <workItem from=\"1698432603098\" duration=\"399000\" />\r\n      <workItem from=\"1701457740785\" duration=\"683000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Created Recently played class, controller and repo to be filled\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1698432758992</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1698432758992</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Created Recently played class, controller and repo to be filled\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1698432776113</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1698432776113</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Added topsongs, websocket, recentlyplayed to main and capitalized W in websocket\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1698695731798</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1698695731798</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Added music stream classes and makinf final changes\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1701216686481</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1701216686481</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"RELOAD_CONTEXT\" value=\"false\" />\r\n    <MESSAGE value=\"Created Recently played class, controller and repo to be filled\" />\r\n    <MESSAGE value=\"Added topsongs, websocket, recentlyplayed to main and capitalized W in websocket\" />\r\n    <MESSAGE value=\"disregard this is for my local use\" />\r\n    <MESSAGE value=\"more adjustments for testing class\" />\r\n    <MESSAGE value=\"Added music stream classes and makinf final changes\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Added music stream classes and makinf final changes\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7fe14e55c52d8f0956683ba40f7f67bd731ee1f9)
++++ b/.idea/workspace.xml	(date 1701460316508)
+@@ -4,8 +4,10 @@
+     <option name="autoReloadType" value="NONE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="661f7d07-f006-4178-9427-3efa51b6a3a1" name="Changes" comment="basically done with muisc queue needs to be tested tho">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    <list default="true" id="661f7d07-f006-4178-9427-3efa51b6a3a1" name="Changes" comment="completed SearchedArtists function for the backend">
++      <change afterPath="$PROJECT_DIR$/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbums.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbumsController.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbumsRepository.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -44,10 +46,11 @@
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "RunOnceActivity.cidr.known.project.marker": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "WebServerToolWindowFactoryState": "false",
+     "cidr.known.project.marker": "true",
+     "git-widget-placeholder": "68-search-artist-backend-and-frontend",
+-    "last_opened_file_path": "/Users/tyberesford/Desktop/PROJECTS/COMS309/quicksc-v3/quick/Backend",
++    "last_opened_file_path": "C:/Users/tiffa/sd_324/Backend/app/quicksc/src/main/java/db",
+     "node.js.detected.package.eslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+     "node.js.selected.package.tslint": "(autodetect)",
+@@ -57,9 +60,17 @@
+   }
+ }]]></component>
+   <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="C:\Users\tiffa\sd_324\Backend\app\quicksc\src\main\java\db\" />
++      <recent name="C:\Users\tiffa\sd_324\Backend\app\quicksc\src\main\java\db\SearchedArtist" />
++    </key>
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\tiffa\sd_324\Backend\app\quicksc\src\main\java\db\" />
+       <recent name="C:\Users\tiffa\sd_324\Backend\app\quicksc\src\main\java\db" />
++    </key>
++    <key name="CopyClassDialog.RECENTS_KEY">
++      <recent name="db.SearchedAlbums" />
++      <recent name="db.SearchArtist" />
+     </key>
+   </component>
+   <component name="RunManager">
+@@ -94,6 +105,7 @@
+       <updated>1696635936027</updated>
+       <workItem from="1698432603098" duration="399000" />
+       <workItem from="1701457740785" duration="683000" />
++      <workItem from="1701458941715" duration="1374000" />
+     </task>
+     <task id="LOCAL-00001" summary="Created Recently played class, controller and repo to be filled">
+       <option name="closed" value="true" />
+@@ -127,7 +139,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1701216686481</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="completed SearchedArtists function for the backend">
++      <option name="closed" value="true" />
++      <created>1701460070610</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1701460070610</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -151,6 +171,7 @@
+     <MESSAGE value="disregard this is for my local use" />
+     <MESSAGE value="more adjustments for testing class" />
+     <MESSAGE value="Added music stream classes and makinf final changes" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Added music stream classes and makinf final changes" />
++    <MESSAGE value="completed SearchedArtists function for the backend" />
++    <option name="LAST_COMMIT_MESSAGE" value="completed SearchedArtists function for the backend" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbums.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbums.java b/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbums.java
+new file mode 100644
+--- /dev/null	(date 1701460315880)
++++ b/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbums.java	(date 1701460315880)
+@@ -0,0 +1,52 @@
++package db.SearchedAlbums;
++
++import javax.persistence.*;
++
++@Entity
++public class SearchedAlbums {
++    @Id
++    @GeneratedValue(strategy = GenerationType.IDENTITY)
++    private int id;
++    private String spotify;
++
++    @Lob
++    @Column
++    private String items;
++
++    // Constructors
++    public SearchedAlbums()
++    {
++
++    }
++
++    public SearchedAlbums(int id, String spotify, String items) {
++        this.id = id;
++        this.spotify = spotify;
++        this.items = items;
++    }
++
++    // Getters and Setters
++    public int getId() {
++        return id;
++    }
++
++    public void setId(int id) {
++        this.id = id;
++    }
++
++    public String getSpotify() {
++        return spotify;
++    }
++
++    public void setSpotify(String spotify) {
++        this.spotify = spotify;
++    }
++
++    public String getItems() {
++        return items;
++    }
++
++    public void setItems(String items) {
++        this.items = items;
++    }
++}
+Index: app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbumsRepository.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbumsRepository.java b/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbumsRepository.java
+new file mode 100644
+--- /dev/null	(date 1701460315890)
++++ b/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbumsRepository.java	(date 1701460315890)
+@@ -0,0 +1,11 @@
++package db.SearchedAlbums;
++
++import org.springframework.data.jpa.repository.JpaRepository;
++import org.springframework.transaction.annotation.Transactional;
++
++public interface SearchedAlbumsRepository extends JpaRepository<SearchedAlbums, Integer> {
++    SearchedAlbums findBySpotify(String spotify);
++
++    @Transactional
++    void deleteBySpotify(String spotify);
++}
+Index: app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbumsController.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbumsController.java b/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbumsController.java
+new file mode 100644
+--- /dev/null	(date 1701460315869)
++++ b/app/quicksc/src/main/java/db/SearchedAlbums/SearchedAlbumsController.java	(date 1701460315869)
+@@ -0,0 +1,25 @@
++package db.SearchedAlbums;
++
++import org.springframework.beans.factory.annotation.Autowired;
++import org.springframework.web.bind.annotation.*;
++
++@RestController
++public class SearchedAlbumsController {
++    @Autowired
++    private final SearchedAlbumsRepository searchedAlbumsRepository;
++
++    public SearchedAlbumsController(SearchedAlbumsRepository searchedAlbumsRepository) {
++        this.searchedAlbumsRepository = searchedAlbumsRepository;
++    }
++
++    @GetMapping(path = "/users/{spotify}/searchedalbums")
++    SearchedAlbums getUserSearchedAlbums(@PathVariable String spotify) {
++        return this.searchedAlbumsRepository.findBySpotify(spotify);
++    }
++
++    @PostMapping(path = "/users/update/{spotify}/searchedalbums")
++    void updateUserSearchedAlbums(@PathVariable String spotify, @RequestBody SearchedAlbums updatedUser) {
++        this.searchedAlbumsRepository.deleteBySpotify(spotify);
++        this.searchedAlbumsRepository.save(updatedUser);
++    }
++}

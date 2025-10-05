@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Backend.iml" filepath="$PROJECT_DIR$/.idea/Backend.iml" />
+>>>>>>> origin/68-search-artist-backend-and-frontend
+      <module fileurl="file://$PROJECT_DIR$/app/quicksc/quick.iml" filepath="$PROJECT_DIR$/app/quicksc/quick.iml" />
+    </modules>
+  </component>
+</project>

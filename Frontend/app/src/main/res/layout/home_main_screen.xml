@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/InitializeMainScreen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".MainScreen">
+
+
+    <Button
+        android:id="@+id/Navigation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_buttons"
+        android:fontFamily="@font/bebas_neue"
+        android:text="+"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@id/MainScreen_Welcome"
+        app:layout_constraintEnd_toEndOf="@id/MainScreen_Welcome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <Button
+        android:id="@+id/Navigation_TopArtists"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_buttons"
+        android:fontFamily="@font/bebas_neue"
+        android:text="Top Artists"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/MainScreen_Welcome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/Navigation_ChatScreen"
+        app:layout_constraintVertical_bias="0.1" />
+
+    <Button
+        android:id="@+id/Navigation_ChatScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_buttons"
+        android:fontFamily="@font/bebas_neue"
+        android:text="Chat"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/MainScreen_Welcome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/Navigation"
+        app:layout_constraintVertical_bias="0.09" />
+
+    <Button
+        android:id="@+id/Navigation_TopTracks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_buttons"
+        android:fontFamily="@font/bebas_neue"
+        android:text="Top Tracks"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/MainScreen_Welcome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/Navigation_TopArtists"
+        app:layout_constraintVertical_bias="0.11" />
+    <Button
+        android:id="@+id/Navigation_RecentlyPlayed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_buttons"
+        android:fontFamily="@font/bebas_neue"
+        android:text="Recently Played"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/MainScreen_Welcome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/Navigation_TopTracks"
+        app:layout_constraintVertical_bias="0.125" />
+    <Button
+        android:id="@+id/Navigation_FollowedArtists"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_buttons"
+        android:fontFamily="@font/bebas_neue"
+        android:text="Followed Artists"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/MainScreen_Welcome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/Navigation_RecentlyPlayed"
+        app:layout_constraintVertical_bias="0.125" />
+
+
+    <Button
+        android:id="@+id/Navigation_MinutesListened"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_buttons"
+        android:fontFamily="@font/bebas_neue"
+        android:text="Minutes Listened"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/MainScreen_Welcome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/Navigation_RecentlyPlayed"
+        app:layout_constraintVertical_bias="0.26" />
+    <Button
+        android:id="@+id/Navigation_SearchScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_buttons"
+        android:fontFamily="@font/bebas_neue"
+        android:text="Search Tracks"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/MainScreen_Welcome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/Navigation_MinutesListened"
+        app:layout_constraintVertical_bias="0.175" />
+
+    <Button
+        android:id="@+id/Navigation_SearchArtists"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_buttons"
+        android:fontFamily="@font/bebas_neue"
+        android:text="Search Artists"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/MainScreen_Welcome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/Navigation_SearchScreen"
+        app:layout_constraintVertical_bias="0.21" />
+    <Button
+        android:id="@+id/Navigation_SearchAlbums"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_buttons"
+        android:fontFamily="@font/bebas_neue"
+        android:text="Search Albums"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/MainScreen_Welcome"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/Navigation_SearchArtists"
+        app:layout_constraintVertical_bias="0.26" />
+
+    <TextView
+        android:id="@+id/MainScreen_Welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bebas_neue"
+        android:text="Welcome"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.208" />
+
+    <ImageView
+        android:id="@+id/MainScreen_Avatar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/rounded_buttons"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="@id/MainScreen_Welcome"
+        app:layout_constraintHorizontal_bias="0.535"
+        app:layout_constraintStart_toStartOf="@id/MainScreen_Welcome"
+        app:layout_constraintTop_toBottomOf="@id/MainScreen_Welcome"
+        tools:srcCompat="@tools:sample/avatars[3]" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
